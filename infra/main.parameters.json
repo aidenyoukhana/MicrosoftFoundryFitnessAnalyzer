@@ -1,0 +1,27 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2019-04-01/deploymentParameters.json#",
+  "contentVersion": "1.0.0.0",
+  "parameters": {
+    "location": {
+      "value": "eastus"
+    },
+    "environmentName": {
+      "value": "dev"
+    },
+    "appName": {
+      "value": "fitness-analyzer"
+    },
+    "openAIDeploymentName": {
+      "value": "gpt-4"
+    },
+    "openAIModelName": {
+      "value": "gpt-4"
+    },
+    "openAIModelVersion": {
+      "value": "0613"
+    },
+    "openAISku": {
+      "value": "S0"
+    }
+  }
+}
