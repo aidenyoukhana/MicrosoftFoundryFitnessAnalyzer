@@ -362,34 +362,6 @@ cd ..
 - Ensure GPT-4 model is available in your region
 - App will gracefully fall back to mock tips if Azure is unavailable
 
-## 📄 License
-
-MIT License - see [LICENSE](LICENSE) file for details
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the repository
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-## 📧 Support
-
-For issues, questions, or suggestions:
-- Open an issue on GitHub
-- Check existing documentation
-- Review Azure OpenAI setup guide
-
-## 🙏 Acknowledgments
-
-- **Microsoft Azure** for Foundry Agents and OpenAI services
-- **Apple** for HealthKit framework
-- **React Native** community for excellent libraries
-- **Chart libraries**: react-native-chart-kit, Victory Native
-
 ## 📚 Additional Resources
 
 - [React Native Documentation](https://reactnative.dev/)
