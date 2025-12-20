@@ -48,32 +48,6 @@ A comprehensive React Native mobile app for iOS that integrates with Apple Healt
 - **Data Export**: Export your health data as CSV
 - **Azure AI Configuration**: Connect to your Azure OpenAI instance
 
-## 📱 Screenshots
-
-### Dashboard
-<img src="docs/screenshots/dashboard.png" alt="Dashboard Screen" width="250"/>
-
-Shows your daily overview with calories, workouts, heart rate, sleep, and AI-generated tips.
-
-### Workouts
-<img src="docs/screenshots/workouts.png" alt="Workouts Screen" width="250"/>
-
-Detailed workout history with charts showing weekly calories and activity distribution.
-
-### Trends
-<img src="docs/screenshots/trends.png" alt="Trends Screen" width="250"/>
-
-Analyze your fitness trends with interactive charts and AI-powered insights.
-
-### Sleep
-<img src="docs/screenshots/sleep.png" alt="Sleep Screen" width="250"/>
-
-Track your sleep patterns with detailed breakdowns and quality metrics.
-
-### Settings
-<img src="docs/screenshots/settings.png" alt="Settings Screen" width="250"/>
-
-Manage app preferences, HealthKit permissions, and Azure AI configuration.
 
 ## 🏗️ Architecture
 
