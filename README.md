@@ -269,7 +269,7 @@ The app features a carefully crafted dark mode design:
 ## 🤖 AI Features
 
 ### Personalized Health Tips
-The app uses Azure OpenAI (GPT-4) to generate personalized recommendations based on:
+The app uses Azure OpenAI (GPT-4) to generate personalized recommendations based on several components:
 - Daily calorie burn
 - Weekly workout frequency
 - Average heart rate
